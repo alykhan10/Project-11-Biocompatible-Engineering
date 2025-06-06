@@ -1,4 +1,4 @@
-# Project #12: Retinal Degeneration 
+# Project #11: Retinal Degeneration 
 # Validating Stem Cell-Based Photoreceptor Therapies for Vision Restoration
 
 ● Conducted extensive literature review to outline anatomical, physiological, and pathological causes of vision loss                
