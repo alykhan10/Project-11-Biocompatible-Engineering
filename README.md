@@ -1,6 +1,6 @@
-# Project #11: Biocompatible Engineering
-# Prototyping an Ultrasonic Sensor to Detect Myocardial Infarctions 
+# Project #12: Retinal Degeneration
+# Validating Stem Cell-Based Photoreceptor Therapies for Vision Restoration
 
-● Assessed for inconsistencies in cardiovascular activity following post-processing of electrocardiogram (ECG) waveforms                 
-● Sampled a 12x12 array of piezoelectric transducers with high beam ultrasound waves to enable doppler frequency shift          
-● Proposed a thin, wearable elastomer sheet as an inert biomaterial for the embedded micro-electromechanical system 
+● Conducted extensive literature review to outline anatomical, physiological, and pathological causes of vision loss                
+● Assessed 3 state-of-the-art treatments: bionic eye implants, stem cell transplants, and glial cell reprogramming                   
+● Identified sub-retinal cell culture as the most optimal solution based on cost, biocompatibility, and clinical viability                  
